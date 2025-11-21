@@ -32,7 +32,7 @@ I have hands-on experience in:
 ## 🎓 Training & Education
 
 - 🎓 **HIC Cybersecurity Bootcamp — Completed**  
-  *(Completed 7 months ago — practical training in SOC operations, SIEM workflows, networking, threat detection, vulnerability management, blue team analysis, and security fundamentals.)*
+  *(practical training in SOC operations, SIEM workflows, networking, threat detection, vulnerability management, blue team analysis, and security fundamentals.)*
 
 - 🎓 **Higher National Diploma (HND) – Computer Science**
 
@@ -86,30 +86,3 @@ Everything is structured to help recruiters, mentors, and hiring managers see my
 ```
 
 ---
-
-## 🧪 Lab Documentation Template  
-Use this template for every lab or project you add:
-
-````markdown
-### 🧪 Lab Title  
-**Platform:** TryHackMe / CyberDefenders / Self-Hosted  
-**Tools Used:**  
-**Date Completed:**  
-
-#### 🔍 Objective  
-Short explanation of what the lab teaches.
-
-#### 🛠 Steps Taken  
-- Step 1  
-- Step 2  
-- Step 3  
-
-#### 📸 Screenshots  
-(Add images)
-
-#### 🎯 Key Learnings  
-- Key takeaway 1  
-- Key takeaway 2  
-
-#### 🚀 Real-World Relevance  
-Explain how this applies in actual cybersecurity operations.
